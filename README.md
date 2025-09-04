@@ -1,6 +1,6 @@
 <img src="https://socialify.git.ci/Shantela21/task8.2-ui-challenge/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="task8.2-ui-challenge" width="640" height="320" />
 
-**📌 Task 8.1 – UI Challenge (React.js)**
+**📌 Task 8.2 – UI Challenge (React.js)**
 **Project Description**
 
 This project is based on the Intro Section with Dropdown Navigation UI challenge.
