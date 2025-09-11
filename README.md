@@ -1,3 +1,4 @@
+<img src="https://socialify.git.ci/Shantela21/task8.2-ui-challenge/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="task8.2-ui-challenge" width="640" height="320" />
 # Task 8.2 UI Challenge
 
 This is a **React + Vite** project designed as part of a UI challenge.  
