@@ -89,7 +89,7 @@ task8.2-ui-challenge/
 
 
 ## 👩‍💻 Author
-- **Your Name** – [GitHub Profile](https://github.com/Shantela21)
+- **Shantela Noyila** – [GitHub Profile](https://github.com/Shantela21)
 
 ---
 
